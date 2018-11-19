@@ -22,6 +22,11 @@
 		<version.org.fenixedu.academic>8.1.2</version.org.fenixedu.academic>
 	</properties>
 
+	<issueManagement>
+        	<system>JIRA</system>
+        	<url>https://jira.fenixedu.org/browse/SAS</url>
+	</issueManagement>
+
 	<scm>
         <connection>scm:git:git@github.com:ist-dsi/fenixedu-ist-sas-integration.git</connection>
         <developerConnection>scm:git:git@github.com:ist-dsi/fenixedu-ist-sas-integration.git</developerConnection>
